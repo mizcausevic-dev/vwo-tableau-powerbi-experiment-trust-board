@@ -1,0 +1,55 @@
+{
+  "name": "VWO Tableau Power BI Experiment Trust Board",
+  "slug": "vwo-tableau-powerbi-experiment-trust-board",
+  "group": "VWO + Tableau + Power BI",
+  "platforms": [
+    "VWO",
+    "Tableau",
+    "Power BI"
+  ],
+  "vertical": "Revenue Operations / Data Engineering",
+  "signals": [
+    {
+      "lane": "experiment integrity",
+      "exposure": 58,
+      "savings": 14,
+      "investment": 52,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "holdout trust",
+      "exposure": 62,
+      "savings": 17,
+      "investment": 54,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "dashboard lineage",
+      "exposure": 66,
+      "savings": 20,
+      "investment": 56,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "semantic model confidence",
+      "exposure": 70,
+      "savings": 23,
+      "investment": 58,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "revenue lift evidence",
+      "exposure": 74,
+      "savings": 26,
+      "investment": 60,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "board readout readiness",
+      "exposure": 78,
+      "savings": 29,
+      "investment": 62,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    }
+  ]
+}

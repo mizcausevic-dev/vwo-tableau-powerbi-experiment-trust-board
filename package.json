@@ -1,0 +1,10 @@
+{
+  "name": "vwo-tableau-powerbi-experiment-trust-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Experiment trust board for VWO decisions, Tableau lineage, and Power BI executive metric confidence.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
